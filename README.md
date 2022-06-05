@@ -14,7 +14,7 @@
   <img align="center" alt="Nanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Nanda-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*nXGTvI0wf21rutzPvdXnKg.gif">
+  <img align="right" alt="Nanda-ic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*nXGTvI0wf21rutzPvdXnKg.gif">
 </div>
   
   ##
