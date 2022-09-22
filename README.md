@@ -7,8 +7,10 @@
 <div align="center">
   <a href="https://github.com/Mornieur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mornieur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://giphy.com/gifs/bigbangtheory-season-1-episode-9-big-bang-theory-MdGUUTVHk7s1BA5Pyk"/>
 </div>
+  
+<br/>
 
 
   
