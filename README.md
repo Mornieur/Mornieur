@@ -21,8 +21,9 @@
   <img align="center" alt="Nanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Nanda-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
  <img align="center" alt="Nanda-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="right" alt="Nanda-ic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*nXGTvI0wf21rutzPvdXnKg.gif">
+  <img align="right" alt="Nanda-ic" height="150" style="border-radius:50px;" src=https://giphy.com/embed/MdGUUTVHk7s1BA5Pyk">
 </div>
+
 
           
 
