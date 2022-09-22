@@ -1,5 +1,9 @@
 <h1 align="center">Hey there! I'm Nanda 🖖</h1>
-  
+
+* Computer Science Student at São Judas Tadeu
+* Front end developer by Alura & Rocketseat
+
+<br><br><br><br><br><br>
 
 <div align="center">
   <a href="https://github.com/Mornieur">
@@ -7,10 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-* Computer Science Student at São Judas Tadeu
-* Front end developer by Alura & Rocketseat
 
-<br><br><br><br><br><br>
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
