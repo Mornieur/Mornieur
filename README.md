@@ -6,6 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mornieur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+* Computer Science Student at São Judas Tadeu
+* Front end developer by Alura & Rocketseat
+
+<br><br><br><br><br><br>
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
