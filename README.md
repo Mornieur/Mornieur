@@ -6,10 +6,11 @@
 
 <div align="center">
   <a href="https://github.com/Mornieur">
-  <img height="180em" src="https://giphy.com/gifs/warnerchannella-the-big-bang-theory-sheldon-fV1bWtUE6pYfY9hbvr"/>
+
+  <a href="https://github.com/Mornieur">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mornieur&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  <iframe src="https://giphy.com/embed/fV1bWtUE6pYfY9hbvr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/warnerchannella-the-big-bang-theory-sheldon-fV1bWtUE6pYfY9hbvr">via GIPHY</a></p>
-<br/>
 
 
   
