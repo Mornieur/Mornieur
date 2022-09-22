@@ -1,9 +1,8 @@
 <h1 align="center">Hey there! I'm Nanda 🖖</h1>
 
-* Computer Science Student at São Judas Tadeu
-* Front end developer by Alura & Rocketseat
-
-<br><br><br><br><br><br>
+* Analysis and Systems Development Student at FAM 📖
+* Front end developer by Udemy & Rocketseat 👾
+* I love nerd culture and cats 🐱
 
 <div align="center">
   <a href="https://github.com/Mornieur">
