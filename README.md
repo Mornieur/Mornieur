@@ -32,6 +32,8 @@
   <img align="center" alt="Nanda-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Nanda-Storybook" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
   <img align="center" alt="Nanda-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Nanda-Styled-Components" height="30" width="40" src="https://simpleicons.org/icons/styledcomponents.svg" />
+
           
           
     
