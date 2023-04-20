@@ -25,7 +25,6 @@
   <img align="center" alt="Nanda-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <div align="center" style="display: inline_block"><br>
   
-  <br />
   <h1 align="center">Tools 🛠️</h1>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nanda-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
