@@ -5,7 +5,7 @@
 * I love nerd culture and cats 🐱
 
 <div align="center">
-  <a href="https://github.com/Mornieur"><br>
+  <a href="https://github.com/Mornieur">
 
   <a href="https://github.com/Mornieur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mornieur&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
 
 
   <h1 align="center">Technologies 🌐</h1>
-  
+   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nanda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
