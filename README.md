@@ -3,10 +3,10 @@
 📖. Currently studying systems analysis and development at FAM, specializing in native languages such as C, C++ and C#. 
   * Get to know a little about my interdisciplinary project: https://malachite-hunter-c24.notion.site/Projeto-Interdiciplinar-Dellamon-f2bf7fe28a5245318b043affb253f0f5
 
-👾. Front end developer by Udemy & Rocketseat 
+👾. Front end developer by Udemy & Rocketseat.
   * I am currently developing for the educational sector, would you like to know my work?
 
-🐱. I love cyber security, nerd culture and cats 
+🐱. I love cyber security, nerd culture and cats.
   * my pet is called Torradinha, my favorite spider man is Tobey and my passion for hammocks is something inexplicable.
 
 <div align="center">
