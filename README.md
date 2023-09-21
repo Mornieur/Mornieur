@@ -7,7 +7,7 @@
   * I am currently developing for the educational sector, would you like to know my work?
 
 🐱. I love cyber security, nerd culture, and cats.
-  * my pet is called Torradinha, my favorite spider man is Tobey and my passion for hammocks is inexplicable.
+  * my pet is called Torradinha, my favorite Spider-Man is Tobey and my passion for hammocks is inexplicable.
 
 <div align="center">
   <a href="https://github.com/Mornieur">
