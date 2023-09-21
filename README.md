@@ -12,10 +12,10 @@
 
 - my pet is called Torradinha, my favorite Spider-Man is Tobey and my passion for hammocks is inexplicable.
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <a href="https://github.com/Mornieur">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mornieur&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=synthwave"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=synthwave"/> -->
   <img height="180em" src="./assets/sheldon-robot.gif" alt="sheldon-robot"/>
 </div>
 
