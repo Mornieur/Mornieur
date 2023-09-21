@@ -14,8 +14,6 @@
 
 <div align="center">
   <a href="https://github.com/Mornieur">
-
-  <a href="https://github.com/Mornieur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mornieur&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mornieur&layout=compact&langs_count=7&theme=synthwave"/>
   <img height="180em" src="/assets/sheldon-robot.gif" >
@@ -43,7 +41,6 @@
   <img align="center" alt="Nanda-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Nanda-Storybook" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
   <img align="center" alt="Nanda-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    
 
 
 ##
