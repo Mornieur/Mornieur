@@ -2,7 +2,7 @@
 
 📖. Currently studying Analysis and Systems Development at FAM, specializing in native languages such as C, C++, and C#.
 
-- Get to know a little about my interdisciplinary project: https://malachite-hunter-c24.notion.site/Projeto-Interdiciplinar-Dellamon-f2bf7fe28a5245318b043affb253f0f5
+- Get to know about my interdisciplinary project: https://malachite-hunter-c24.notion.site/Projeto-Interdiciplinar-Dellamon-f2bf7fe28a5245318b043affb253f0f5
 
 👾. Front-end developer by Udemy & Rocketseat.
 
