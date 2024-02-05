@@ -6,7 +6,7 @@
 
 👾. Front-end developer by Udemy & Rocketseat.
 
-- I am currently developing for the educational sector, would you like to know my work?
+- I create engaging and intuitive interfaces for the community engagement platform, would you like to know my work?
 
 🐱. I love cyber security, nerd culture, and cats.
 
