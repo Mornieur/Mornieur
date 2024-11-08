@@ -10,7 +10,7 @@
 
 🐱. I love cyber security, nerd culture, and cats.
 
-- my pets is called Pixel and Byte, my favorite Spider-Man is Tobey and my passion for hammocks is inexplicable.
+- my pet is called Byte, my favorite Spider-Man is Tobey and my passion for hammocks is inexplicable.
 
 <div align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <a href="https://github.com/Mornieur">
