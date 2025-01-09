@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Nanda 🖖</h1>
 
-📖. Currently studying Analysis and Systems Development at FAM, specializing in native languages such as C, C++, and C#.
+📖. Graduated in Analysis and Systems Development from FAM, currently specializing in React.
 
 - Get to know about my interdisciplinary project: https://malachite-hunter-c24.notion.site/Projeto-Interdiciplinar-Dellamon-f2bf7fe28a5245318b043affb253f0f5
 
