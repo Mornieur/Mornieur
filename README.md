@@ -2,7 +2,7 @@
 
 📖. Graduated in Analysis and Systems Development from FAM, currently specializing in React.
 
-- Get to know about my interdisciplinary project: https://malachite-hunter-c24.notion.site/Projeto-Interdiciplinar-Dellamon-f2bf7fe28a5245318b043affb253f0f5
+- Focused on building scalable and user-centered front-end applications
 
 👾. Front-end developer by Udemy & Rocketseat.
 
