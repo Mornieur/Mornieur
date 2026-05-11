@@ -26,33 +26,29 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
-
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-</div>
+<p align="center">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
 
 ---
 
 ## 🛠️ Tools & Libraries
 
-<div align="center">
-
-<img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" alt="Ant Design" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" />
-<img align="center" alt="Styled Components" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" />
-<img align="center" alt="Storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-<img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-</div>
+<p align="center">
+  <img alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Ant Design" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" />
+  <img alt="Styled Components" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" />
+  <img alt="Storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+  <img alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
 
 ---
 
